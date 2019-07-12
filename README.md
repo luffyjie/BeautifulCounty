@@ -1,6 +1,5 @@
 # BeautifulCounty-Weex
-美丽县城是用weex编写的移动端项目，包含了首页，详情页，轮播图等元素，简单的weex项目。 这里是weex部分的代码，客户端的代码参考JSFH项目，里面实现了weex和iOS客户端的交互，Kingfisher图片下载缓存，如何初始化weex，代码是swift写的。
-
+美丽县城是用weex编写的移动端项目，包含了首页，详情页，轮播图等元素，实现了一份代码两个平台兼容。TownWeex是weex前端代码，JSFH是iOS端项目Swift5实现。
 <img src="https://github.com/luffyjie/BeautifulCounty-Weex/blob/master/TownWeex/screenshot/1.png" height="600" wwidth="1000" />
 <img src="https://github.com/luffyjie/BeautifulCounty-Weex/blob/master/TownWeex/screenshot/2.png" height="600" wwidth="1000" />
 <img src="https://github.com/luffyjie/BeautifulCounty-Weex/blob/master/TownWeex/screenshot/3.png" height="600" wwidth="1000" />
