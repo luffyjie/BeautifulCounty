@@ -1,0 +1,48 @@
+PODS:
+  - Alamofire (5.0.0-beta.6)
+  - CryptoSwift (1.0.0)
+  - HandyJSON (5.0.0)
+  - Kingfisher (5.5.0)
+  - SKPhotoBrowser (6.1.0)
+  - SnapKit (5.0.0)
+  - SwiftyJSON (4.3.0)
+  - Toast-Swift (5.0.0)
+  - WeexSDK (0.24.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.0.0-beta.5)
+  - CryptoSwift
+  - HandyJSON (~> 5.0.0-beta.1)
+  - Kingfisher (~> 5.0)
+  - SKPhotoBrowser (~> 6.1.0)
+  - SnapKit (~> 5.0.0)
+  - SwiftyJSON (~> 4.0)
+  - Toast-Swift (~> 5.0.0)
+  - WeexSDK (= 0.24.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - CryptoSwift
+    - HandyJSON
+    - Kingfisher
+    - SKPhotoBrowser
+    - SnapKit
+    - SwiftyJSON
+    - Toast-Swift
+    - WeexSDK
+
+SPEC CHECKSUMS:
+  Alamofire: cd08a4402bd12cacd0c66f23fb12fec8d6b965e4
+  CryptoSwift: d81eeaa59dc5a8d03720fe919a6fd07b51f7439f
+  HandyJSON: 992f2d661716d6a91de82d0056927bc7813b5770
+  Kingfisher: 6fe5e67a90fd335e49b0f5c075ff55ac5ebedd94
+  SKPhotoBrowser: 343de95d89dc7913763c5dda243cc6e606e4a168
+  SnapKit: fd22d10eb9aff484d79a8724eab922c1ddf89bcf
+  SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
+  Toast-Swift: 36f4720243c8582c2be243a60a51e193c761f541
+  WeexSDK: 5bd35be9c035c67c84d1ba15712360bb0d0ba6b5
+
+PODFILE CHECKSUM: 873fabc395090d7bb91f16b6b572c124a9efd479
+
+COCOAPODS: 1.6.1

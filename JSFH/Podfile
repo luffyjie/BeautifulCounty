@@ -1,0 +1,16 @@
+source 'https://github.com/CocoaPods/Specs.git'
+platform :ios, '10.0'
+use_frameworks!
+
+target 'JSFH' do
+	pod 'Alamofire', '~> 5.0.0-beta.5'
+  pod 'SnapKit', '~> 5.0.0'
+	pod 'Kingfisher', '~> 5.0'
+  pod 'Toast-Swift', '~> 5.0.0'
+  pod 'SwiftyJSON', '~> 4.0'
+  pod 'HandyJSON', '~> 5.0.0-beta.1'
+  pod 'SKPhotoBrowser', '~> 6.1.0'
+  pod 'CryptoSwift'
+  pod 'WeexSDK', '0.24.0'
+
+end
